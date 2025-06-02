@@ -3,8 +3,6 @@ package com.sahyog.app.inbound.common.utils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
-import com.sahyog.app.inbound.common.dto.ResponseDTO;
-
 
 /**
  * This class will add HttpStatus to response and convert them to ResponseEntity
