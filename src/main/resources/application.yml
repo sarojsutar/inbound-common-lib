@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: inbound-common-lib
+  config:
+    import: optional:file:/etc/secrets/secret
